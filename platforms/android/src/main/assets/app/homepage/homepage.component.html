@@ -1,0 +1,13 @@
+
+<StackLayout class ="boards-wrapper">
+    <label text="All Boards" class ="label" ></label>
+
+    <ListView [items]="boards" class="large-spacing">
+      <ng-template let-item="item">
+            <WrapLayout class="board" on-tap="boardDetail(item)">
+                <Label [text]="item.title" class="title" ></Label>
+                <Label style="font-size: smaller" text="Total Task: {{item.task.length}}" ></Label>
+            </WrapLayout>
+      </ng-template>
+    </ListView>
+  </StackLayout>

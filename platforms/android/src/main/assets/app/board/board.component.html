@@ -1,0 +1,15 @@
+<StackLayout class="main">
+  <label text="Tasks for: {{board.title}}" class="label"></label>
+  <ListView [items]="board.task" class="large-spacing">
+    <ng-template let-item="item">
+      <WrapLayout >
+        <Label [text]="item.title" class="task" ></Label>
+        <StackLayout orientation="vertical">
+        <StackLayout class="subTask" *ngFor="let subtask of item.subtask">
+          <Label [text]="subtask.title" ></Label>
+        </StackLayout>
+      </StackLayout>
+      </WrapLayout>
+    </ng-template>
+  </ListView>
+</StackLayout>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_e16ec3d827d86196d77118ff87e3c61a33ea6cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\nativescript-optimized\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-nativescript-optimized_1a7cfeb1e9e433a2e0cad96a8724731ab1066d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_134072f825b89d32400dcb98ec7c5ca33771e08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_bef6fbc037daf6115558ffa0ae7dd446970b2be3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_0e6a2f208c059e5114d03c381784b28108a05338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_f9942ec40ac1c600bc3d7cd750611ec351d049e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_bc0a53c3ae7a35ad610e514754ed3b698e26e977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_fa4a7ba7742616d333db8d1773135fb02f4580af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_8d9c496917f2955ec4869b89e78db79b1707e40f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_ba8bd37971b193c28a655de3f33c48ffce5596e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_7832c04f80aced4d5c6a5a24d4d94dc961c1fa9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_3744a91f2e2cefb609983fa3c2637f79a5095676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_a9f842865807df19cabbcad56ec9a1a42ed81843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Sachin\NativeScriptTest\SampleTrello\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_0be4d360cad71e0303a3d432c606cba1e92bd4e6.jar" />
+    </item>
+
+</items>

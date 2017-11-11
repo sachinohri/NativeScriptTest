@@ -1,0 +1,44 @@
+.main {
+  padding: 10px;
+  background-color: rgb(147, 191, 192);
+  display: inline-block;
+}
+  
+  .label { 
+    color: #333;
+    font-weight: 700; 
+    font: 25px "Helvetica Neue",Arial,Helvetica,sans-serif; 
+    line-height: 20px;
+    /*font-size: 25pt;*/
+    padding: 10pt;
+  }
+.task {
+  background-color: darkkhaki;
+  width: 100%;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+  white-space: nowrap;
+  font-size: 25pt;
+}
+.subTask {
+  background-color:#ccc;   
+  text-decoration: none;
+  padding: 7px;
+  width: 100%;
+  border-radius: 3px;
+  color: #4d4d4d;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 18px;
+  cursor: pointer;
+  white-space: normal;
+  word-wrap: break-word;
+  list-style: none;
+  border-bottom: solid 1px #ccc;
+ 
+}

@@ -1,0 +1,41 @@
+
+.boards-wrapper {
+    padding: 10px;
+    background-color: rgb(147, 191, 192);
+   /* min-height: calc(100% - 4em);*/
+    display: inline-block;
+  }
+  
+  .label { 
+    color: #333;
+    font-weight: 700; 
+    /*font: 14px "Helvetica Neue",Arial,Helvetica,sans-serif; */
+    line-height: 20px;
+    font-size: 25pt;
+    padding: 10pt;
+  }
+  
+  .board {
+    background-color: rgb(173, 51, 102);
+    height: auto;
+    width: 500px;
+    color: white;
+    /*float: left;*/
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    padding: 9pt 8pt;
+    text-decoration: none;
+  }
+  
+  .board .title {
+    font-weight: 700; 
+    /*font: 14px "Helvetica Neue",Arial,Helvetica,sans-serif; */
+    line-height: 20px;
+    font-size: 18pt;
+  }
+  
+  .add-board {
+    background-color: #e2e4e6;
+    color: #8c8c8c;
+  }
