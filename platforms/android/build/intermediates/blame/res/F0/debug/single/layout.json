@@ -48,12 +48,12 @@
         "source": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\src\\debug\\res\\layout\\logcat_tab.xml"
     },
     {
-        "merged": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_template_part_time.xml",
-        "source": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_text_input_password_icon.xml",
         "source": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
@@ -124,12 +124,12 @@
         "source": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_action.xml",
-        "source": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action.xml"
-    },
-    {
         "merged": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\design_navigation_menu.xml",
         "source": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_action.xml",
+        "source": "D:\\Sachin\\NativeScriptTest\\SampleTrello\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "D:\\Sachin\\NativeScriptTest\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout\\notification_template_part_time.xml",
