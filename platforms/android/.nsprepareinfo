@@ -1,9 +1,9 @@
 {
-	"time": "Mon Nov 13 2017 22:09:59 GMT-0700 (Mountain Standard Time)",
+	"time": "Tue Nov 14 2017 22:31:13 GMT-0700 (Mountain Standard Time)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
+	"changesRequireBuild": false,
 	"projectFileHash": "1603d0196b6d89f5c6c9ce17bd17b5626d28e9ca3b0b5eae0522249a284ce463",
 	"changesRequireBuildTime": "Mon Nov 13 2017 22:09:59 GMT-0700 (Mountain Standard Time)"
 }

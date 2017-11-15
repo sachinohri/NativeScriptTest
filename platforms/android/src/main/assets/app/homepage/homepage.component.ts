@@ -15,6 +15,7 @@ import {TrelloService} from '../services/trello.service';
 export class HomepageComponent implements OnInit {
   boards: Board[] = Array();
   errorMessage: string;
+  heading: string = "All Boards";
 
   constructor(private _trelloService:TrelloService,private _router: Router) { }
 
